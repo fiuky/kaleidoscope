@@ -19,4 +19,4 @@ Authors
 
 Built by Alex Fiuk and Matthias Chia.
 
-Base code provided by our professor, Dr. Dave Matuszek.
+Base code provided by our professor, Dr. Dave Matuszek. 
