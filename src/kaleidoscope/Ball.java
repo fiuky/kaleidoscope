@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 /**
- * Balls are one type of shape that makes up the complete kaleidoscope.
+ * Balls are one type of shape that make up the complete kaleidoscope.
  * 
  * @author David Matuszek
  * @author Alex Fiuk
